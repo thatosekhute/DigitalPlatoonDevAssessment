@@ -1,0 +1,7 @@
+com/eohdigital/eohdigital/EohDigitalApplication.class
+com/eohdigital/eohdigital/controllers/CicController.class
+com/eohdigital/eohdigital/entities/Cic.class
+com/eohdigital/eohdigital/services/EntityServiceImpl.class
+com/eohdigital/eohdigital/repository/EntityRepository.class
+com/eohdigital/eohdigital/entities/Entity.class
+com/eohdigital/eohdigital/services/EntityService.class
